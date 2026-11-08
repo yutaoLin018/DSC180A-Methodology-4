@@ -1,10 +1,10 @@
 
 ---
 layout: home
-title: Methodology Assignment 4
 ---
 
 # DSC 180A Methodology Assignment 4
+
 
 **Name:** Yutao Lin
 
